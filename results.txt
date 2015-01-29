@@ -1,0 +1,10 @@
+bella is found? false
+bob is found? false
+michael is found? true
+Sarah is found #: 40
+Hudson is found #: 83
+garrett is found? false
+bob is found? false
+asdf is found? false
+Sarah is found #: 40
+Hudson is found #: 83
