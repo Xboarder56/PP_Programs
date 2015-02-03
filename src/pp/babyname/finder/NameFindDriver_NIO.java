@@ -17,6 +17,8 @@ public class NameFindDriver_NIO
 			String content = new String(Files.readAllBytes(Paths.get("babynames.txt")));
 			
 			
+			
+			
 			/*Tell the user to pick a selection between 1-4*/
 			System.out.println("Please enter the name to find in the list: ");
 			String name1 = console.nextLine(); //clears the prompt (to skip enter key)
