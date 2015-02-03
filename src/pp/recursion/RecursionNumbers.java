@@ -11,8 +11,8 @@ public class RecursionNumbers
 		printMultiplesOfThree(18);
 		
 		System.out.println("Sum -1 (6): " + evenSumDown(6));
-	System.out.println("Sum -1 (5): " + evenSumDown(5));
-//		stringPrint("Test one two three");
+		//System.out.println("Sum -1 (5): " + evenSumDown(5));
+		stringPrint("Test one two three");
 	}
 	
 	public static void counter(int number)
@@ -90,13 +90,20 @@ public class RecursionNumbers
 	
 	public static void stringPrint(String stuff)	
 	{
-		if(stuff.length()==0)
+		if(!stuff.contains(" ")) // are there no spaces?
 		{
+			System.out.println(stuff);
 			return;
 		}
 		else
 		{
+			//split up my word and the rest of our sentence
+			int spaceIndex = stuff.indexOf(" ");
+			String word = stuff.substring(0, spaceIndex);
+			String remainingString = stuff.substring(spaceIndex +1);
 			
+			System.out.println(word);
+			stringPrint(remainingString);
 		}
 	}
 	
