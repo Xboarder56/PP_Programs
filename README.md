@@ -11,3 +11,4 @@
 3. PP.webRegistration   (Exceptions Try/Catch)
 4. PP.babyname.finder   (FileIO Reading/Writing)
 5. PP.recursion   (Recursion examples, with checks added)
+6. PP.Splitter  (Data structers examples)
