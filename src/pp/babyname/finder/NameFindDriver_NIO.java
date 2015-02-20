@@ -3,6 +3,7 @@ package pp.babyname.finder;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.Scanner;
 
 public class NameFindDriver_NIO 
@@ -16,7 +17,7 @@ public class NameFindDriver_NIO
 		{
 			String content = new String(Files.readAllBytes(Paths.get("babynames.txt")));
 			
-			Files.write(Paths.get("movies.txt"),)
+			Files.write(Paths.get("movies.txt"), content.getBytes(), StandardOpenOption.APPEND);
 			
 			
 			

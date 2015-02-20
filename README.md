@@ -1,5 +1,5 @@
 
- * PP_Programs Java Projects
+ * PP_Programs Java Projects (CISC 143 - Joshes Class)
  
  ![Alt text](/photos/title.jpg "Optional title")
 
@@ -12,3 +12,4 @@
 4. PP.babyname.finder   (FileIO Reading/Writing)
 5. PP.recursion   (Recursion examples, with checks added)
 6. PP.Splitter  (Data structers examples)
+7. PP.datastructures.vectors (Examples of vectors as a datastructers and storing and sorting data with them)
