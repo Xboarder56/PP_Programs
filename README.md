@@ -14,3 +14,4 @@
 6. PP.Splitter  (Data structers examples)
 7. PP.datastructures.vectors (Examples of vectors as a datastructers and storing and sorting data with them)
 8. PP.linkedlists.structer (Implement custom linked list class that will count the nodes)
+9. PP.binarysearchtree (PDF of questions about binary search trees.)
