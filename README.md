@@ -1,7 +1,7 @@
 
  * PP_Programs Java Projects (CISC 143 - Joshes Class)
  
- ![Alt text](/photos/title.jpg "Optional title")
+ ![Alt text](/photos/title.jpg "Programming RULES!")
 
 
 *         Copyright (c) 2014/2015 by Garrett J. Beasley/Michael Ford
